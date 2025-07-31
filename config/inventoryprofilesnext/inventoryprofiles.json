@@ -1,0 +1,27 @@
+{
+    "ModSettings": {
+        "highlight_foused_items_animated": {
+            "value": true
+        },
+        "villager_trading_group_1": {
+            "value": true
+        },
+        "villager_trading_group_2": {
+            "value": true
+        },
+        "restock_hotbar": {
+            "value": true
+        },
+        "first_run": false
+    },
+    "LockedSlotsSettings": {
+        "locked_slots_allow_pickup_into_empty": {
+            "value": true
+        }
+    },
+    "Tweaks": {
+        "swipe_move_crafting_result_slot": {
+            "value": true
+        }
+    }
+}

@@ -1,0 +1,356 @@
+0World2Create-Universal-1.19-1.20.X-1.0.0.jar
+	【优化】本模组让 Minecraft 像 1.19 之前的版本一样在没有存档时仍然显示空的存档列表页面
+amecs-1.3.11+mc.1.20.4.jar
+	【优化】一个按键只能绑定一个功能，之前绑定的功能会变成红色并失去作用
+animatica-0.6+1.20.jar
+	【优化】一个 Fabric 端的让玩家用于加载 MCPatcher/OptiFine 动画纹理格式的模组
+antighost-1.20.4-fabric0.91.2-1.1.5.jar
+	【优化】该模组主要用以解决因挖掘速度过快和服务器客户端药水效果结束后不同步导致的方块不同步问题
+appleskin-fabric-mc1.20.3-2.5.1.jar
+	【UI】添加了各种与食物和饥饿机制相关的 HUD 改进
+architectury-11.1.17-fabric.jar
+	【前置】Architectury 是对 Fabric API 和 Forge API 的抽象化调用的 API
+authme-8.0.0+1.20.4.jar
+	【功能】Auth Me 会在多人游戏界面增加切换账号的功能按钮，可为你节省切换账号时所需重启的时间
+axolotlbuckets-1.2.0+1.20.jar
+	【UI】本模组可以使美西螈在桶里的时候显示美西螈的颜色和年龄
+BadOptimizations-2.1.1.jar
+	【优化】目前的主要功能：避免光照贴图的更新、避免计算云和天空的颜色、在不打开 F3 时不进行 F3 计算、不进行没必要的视场角计算、替换了 ToastManager 中的 removeIf 调用
+badpackets-fabric-0.6.1.jar
+	【前置】Bad Packets 是一款允许在不同的模组平台之间进行数据包消息传递的库
+bedrodium-0.2.3.jar
+	【优化】通过移除基岩的不可见侧面进行细小的优化
+betterbeds-1.3.0-1.19.3.jar
+	【优化】本模组移除了床的方块实体渲染器，并用默认的 Minecraft 模型渲染器替换它
+BetterF3-9.0.2-Fabric-1.20.4.jar
+	【UI】BetterF3 将 Minecraft 最初的调试 HUD 替换为一个高度可定制、更具可读性的 HUD
+bettermounthud-1.2.2.jar
+	【优化】这个客户端模组优化了在生存骑着生物时的抬头显示
+BetterPingDisplay-Fabric-1.20.4-1.1.1.jar
+	【UI】安装该模组后，玩家列表中会以数字形式显示每个玩家的 ping 值
+betterstats-3.9.7+fabric-1.20.4.jar
+	【优化】本模组用一个改良的全新统计界面替换了原版统计界面，以使其更易于使用，并提供一些有帮助的功能
+bettertaskbar-fabric-mc1.20.2-1.8.0.jar
+	【优化】模组通过调用 Windows 系统中超级任务栏的相关 API 来达成适配系统超级任务栏的目的
+better_log4j_config-1.2.0-fabric.jar
+	【优化】一个简单的 Fabric 或 Quilt 模组，通过重新配置 Log4j 以改进日志格式
+Boat-Item-View-Fabric-1.20.1-0.0.5.jar
+	【优化】该模组使玩家在划船时依旧渲染手中的地图，而不是一划船就隐藏手中的物品
+boathud-1.1.5.jar
+	【UI】本模组添加了划船时的 HUD，能够显示当前的偏移角度和速度
+Bookshelf-Fabric-1.20.4-23.0.8.jar
+	【前置】Bookshelf 是一个 Lib 模组，汇集一些代码、框架、实用工具和其他资源
+c2me-fabric-mc1.20.4-0.2.0+alpha.11.67.jar
+	【优化】C^2M 引擎 是一个 Fabric 及 NeoForge 模组，旨在提高 Minecraft 区块的性能，具体化那便是对区块的生成，I/O，加载优化
+cakechomps-fabric-8.0.0+1.20.4.jar
+	【细节】Cake Chomps 是一个为蛋糕添加进食声音和面包屑颗粒的模组，就像你吃其他所有食物一样
+calcmod-fabric-1.20.2-1.3.1.jar
+	【功能】探索一系列为休闲玩家和技术玩家设计的功能，从基本计算到优化游戏玩法的高级工具
+capes-1.5.3+1.20.2-fabric.jar
+	【优化】一个允许你使用来自 OptiFine、LabyMod 和 Minecraftcapes 披风的模组
+carpet-extra-1.20.3-1.4.128.jar
+	【功能】地毯端拓展让地毯端的功能更多
+carpet-tis-addition-mc1.20.4-v1.59.2.jar
+	【功能】这是一个 Carpet Mod Fabric 版的扩展 Mod，包含了不少有意思的功能以及特性
+CarpetTCTCAddition-1.20.4-2.2.212+46263e3-stable.jar
+	【功能】这是一个 Carpet 扩展模组。它提供了很多NotVanilla的实用功能
+carryon-fabric-1.20.4-2.1.3.13.jar
+	【功能】Carry On 模组内容简单，主要功能是增强玩家与功能性方块和生物的互动
+chatanimation-1.0.5.jar
+	【优化】本模组为聊天栏消息添加了淡入效果，并移除了消息指示器
+chatpatches-204.6.5.jar
+	【优化】本模组优化了 MC 的聊天栏，提高游戏中的聊天体验
+chat_heads-0.12.2-fabric-1.20.3.jar
+	【优化】一款客户端模组，在玩家所发送的信息前显示其皮肤头像，使得分辨玩家相对更加容易，同时使信息外观更加精美
+cherishedworlds-fabric-8.0.1+1.20.4.jar
+	【功能】使用这个模组你可以给你喜欢的存档和服务器收藏置顶
+citresewn-1.1.5+1.20.4.jar
+	【优化】此功能允许资源包在满足特定条件时更换物品纹理
+CleanF3-mc1.20.x-0.4.4.jar
+	【优化】Clean F3 是一个轻量化的模组，移除了游戏内调试界面的一些无用信息，使其更清晰明了，观感更好
+cloth-config-13.0.121-fabric.jar
+	【前置】一个 Fabric 和 (Neo)Forge 的客户端配置屏幕 API
+collective-1.20.4-7.30.jar
+	【前置】Collective 是一个 Lib 类模组，具有 Serilum 所有模组的通用代码
+completeconfig-2.5.3.jar
+	【前置】CompleteConfig 是一个 Fabric 配置库模组
+ContingameIME-1.0.6-1.20.1-fabric.jar
+	【功能】游戏内输入法
+continuity-3.0.0-beta.5+1.20.2.jar
+	【优化】Continuity 是一个围绕现代 API 构建的 Fabric 模组，尽可能高效地提供连接纹理体验
+Controlify-2.0.0-beta.8+1.20.4.jar
+	【功能】又一个为Minecraft Java版添加控制器支持的模组 - 注重于兼容性
+Controlling-fabric-1.20.4-15.0.5.jar
+	【功能】在控制菜单按名称搜索键位的功能，便于玩家查找键位，以及只显示冲突键位的功能，使得玩家更容易修复键位冲突
+cubes-without-borders-1.1.0+1.20.jar
+	【优化】这是一个允许你在无边框全屏窗口模式下玩 Minecraft 的模组
+CustomSkinLoader_Fabric-14.19.1.jar
+	【优化】这是一个可以从网络或本地加载皮肤的模组
+CustomWindowTitle-Fabric-1.20+v1.2.0.jar
+	【优化】本客户端模组可以更改游戏窗口的标题和图标
+dark-loading-screen-1.6.14.jar
+	【优化】一个简单的 Fabric Mod，使加载屏幕变暗
+Debugify-1.20.4+1.1.jar
+	【优化】Debugify 修复了 60 多个 Bug Tracker 上的 BUG
+DeleteWorldsToTrash-v20.4.0-1.20.4-Fabric.jar
+	【功能】Delete Worlds To Trash 让玩家在删除 Minecraft 世界时，它会被移动到回收站/垃圾箱，而不是被彻底删除
+DetailArmorBar-2.6.3+1.20.4-fabric.jar
+	【UI】这是一款能够显示超过 20 点护甲值，并以一种美观且优雅的方式显示玩家身上所穿盔甲的模组
+Ding-1.20.4-Fabric-1.4.1.jar
+	【细节】这是一个仅客户端的模组，提供了在游戏加载完毕时会产生一次提示音的功能
+disableaccessibilityscreen-1.0.1.jar
+	【优化】Mod 会跳过该菜单，直接进入主菜单，并确保讲述人已被禁用
+DisableCustomWorldsAdvice-5.0.jar
+	【优化】这个简单的模组禁用了每次创建或载入自定义次元或世界设置的世界时出现的令人厌烦的“实验性设置”提醒
+draggable_lists-mc1.20.4-1.0.5-build.30.jar
+	【优化】此模组使你可以拖动资源包和服务器，简化了原版通过按钮来移动项目的繁琐操作
+durabilitytooltip-1.1.5-fabric-mc1.20.jar
+	【UI】Durability Tooltip 可在提示框中为物品以多种样式显示耐久度
+durabilityviewer-1.20.4-fabric0.91.2-1.10.5.jar
+	【UI】耐久指示器
+dynamiccrosshair-7.7+1.20.4-fabric.jar
+	【优化】本模组可依据当前游戏内容自动隐藏或改变准星形状
+edgelesschatscreen-1.1.2-fabric1.20.jar
+	【优化】本模组可以让你的聊天框贴紧屏幕边缘
+EnchantmentDescriptions-Fabric-1.20.4-20.0.3.jar
+	【UI】附魔描述是一个轻量级客户端模组，它在附魔的工具提示中增加了对附魔的描述
+enchlevel-langpatch-2.2.2.jar
+	【优化】该模组为超过等级 10 的附魔提供了文本显示支持
+enhanced_attack_indicator-1.0.4+1.20.3.jar
+	【优化】Enhanced Attack Indicator 增强了玩家的攻击提示器，让它显示更多东西的进度
+entity-view-distance-1.2.0+1.20.4.jar
+	【优化】本模组允许你修改实体变得不可见的距离
+entityculling-fabric-1.6.4-mc1.20.4.jar
+	【优化】该模组使用异步路径跟踪跳过渲染不可见的实体和 方块实体
+exordium-fabric-1.2.1-mc1.20.4.jar
+	【优化】此模组将以较低的固定帧率渲染大部分 HUD，从而释放 CPU 和 GPU 用于真正重要的世界加载与渲染
+fabric-api-0.97.0+1.20.4.jar
+	【前置】Fabric API 提供一些基础的接口，允许其它模组注册物品、方块、模型、界面等，也提供一些事件
+fabric-carpet-1.20.3-1.4.128+v231205.jar
+	【功能】Carpet Mod 是 一款为原版 Minecraft 玩法带来的革新性模组，提升了玩家对游戏的控制力和理解度
+fabric-language-kotlin-1.11.0+kotlin.2.0.0.jar
+	【前置】Fabric 加载器的 Kotlin 语言库模组，添加对 Kotlin 专属入口点的支持，并捆绑 Kotlin 标准库及常用的 Kotlinx 库
+fabricskyboxes-0.7.3+mc1.20.2.jar
+	【优化】这是一个客户端的模组，它允许资源包定义自定义天空盒
+fadeless-1.0.1.jar
+	【优化】本模组可以删除 MC 中的所有淡出动画，包括从 Mojang 初始屏幕淡出到主菜单，以及重新加载纹理后的淡出
+fallingleaves-1.15.6+1.20.1.jar
+	【细节】这个适用于 Minecraft 1.16+ 的 Fabric 模组为树叶方块添加了一个简单好看的小粒子效果
+fast-ip-ping-mc1.20.4-fabric-v1.0.1.jar
+	【优化】本模组是从 TweakerMore 中 yeetServerIpReversedDnsLookup 选项分离出来的独立模组，功能是通过绕过反向 DNS 检查加快约 1 秒至 5 秒的服务器 IP 解析时间
+fastquit-3.0.0+1.20.4.jar
+	【优化】此模组可以在点击“保存并退回到标题屏幕”后立即回到标题界面
+ferritecore-6.0.3-fabric.jar
+	【优化】铁氧体磁芯是一个支持 Forge/Fabric/Quilt/NeoForge 的优化 Mod，它可以以几种不同的优化方式减少内存占用
+fix-keyboard-on-linux-1.0.1.jar
+	【优化】这是一个简单的模组，它修复了 Minecraft 在 Linux 下有关键盘组合键的一些恼人错误
+forcecloseloadingscreen-2.2.1.jar
+	【优化】关闭加载屏幕
+ForgeConfigAPIPort-v20.4.3-1.20.4-Fabric.jar
+	【前置】Forge Config API Port 在 Fabric 构建了一整个 Forge 配置 API，这以便于将模组移植到 Fabric 上而减少修改
+fsb-interop-1.3.6+mc1.20.2-build.52.jar
+	【优化】Nuit Interop 会将 MCPatcher/OptiFine 资源包自定义天空转换为 Nuit 的格式
+ftb-library-fabric-2004.2.4.jar
+	【前置】1.12.2 版本之后 FTB 系列模组中所有需要 GUI 的通用前置模组
+ftb-ultimine-fabric-2004.1.0.jar
+	【功能】FTB Ultimine 提供了同时收获多个方块的有效模式
+gamemenuremovegfarb-fabric-mc1.19.4-2.1.2.jar
+	【优化】 ESC 暂停的游戏菜单中移除“提供反馈”、“报告漏洞”选项
+gugle-carpet-addition-2.7.0-1.20.4.jar
+	【功能】Gugle的Carpet附加包
+harvest-1.3.1.jar
+	【功能】丰收模组为Minecraft添加了一个便捷的功能，使玩家能够更快速地收获已经成熟的农作物和地狱疣
+held-item-info-1.5.0.jar
+	【UI】eld Item Tooltips 是一个简单的模组：当你在使用快捷键或者鼠标滚轮切换物品时显示更多关于物品的信息，比如工具的耐久度及附魔，潜影盒内容物，药水效果，烟花火箭的持续时间等
+horse-stats-vanilla-4.3.0.jar
+	【UI】这个客户端 Mod 会显示马的背包统计数据（健康、速度、跳跃高度）
+ImmediatelyFast-Fabric-1.2.15+1.20.4.jar
+	【优化】Immediately Fast 是一个开源的模组，提升了客户端渲染的速度
+indium-1.0.30+mc1.20.4.jar
+	【优化】铟 (Indium) 是渲染优化模组 钠 (Sodium) 的附属模组，为 Sodium 提供了对 Fabric Rendering API 的支持
+InGameAccountSwitcher-Fabric-1.20.4-8.0.2.jar
+	【功能】此模组允许你在不重启游戏的情况下通过一个简单的界面更换游戏账号
+InventoryProfilesNext-fabric-1.20.3-1.10.10.jar
+	【功能】除一键整理外，模组还添加了大量其他功能
+iris-1.7.0+mc1.20.4.jar
+	【功能】Iris Shaders 是一个旨在与现有的 ShadersModCore / 高清修复 光影兼容的 Fabric 渲染模组
+itemscroller-fabric-1.20.4-0.22.0.jar
+	【功能】物品滚轮（Item Scroller）是一个客户端侧模组，它可以增加几个使用鼠标在物品栏里移动物品的方法
+Jade-1.20.4-fabric-13.3.1.jar
+	【UI】高亮信息
+krypton-0.2.6.jar
+	【优化】Krypton 是一个 Fabric Mod，试图优化 Minecraft 的网络堆栈
+Ksyxis-1.3.0.jar
+	【优化】此模组旨在加快加载世界的速度
+lambdynamiclights-2.3.4+joestr+1.20.4-local.jar
+	【优化】动态光源
+language-reload-1.6.1+1.20.4.jar
+	【优化】该模组在语言切换方面提升了游戏体验
+libIPN-fabric-1.20.3-4.0.2.jar
+	【前置】此模组为 一键背包整理 Next 的前置，为其提供了一系列 GUI /配置文件库
+light-overlay-8.0.0.jar
+	【UI】组为玩家提供了一种类似 NEI 中的亮度覆盖显示功能
+litematica-fabric-1.20.4-0.17.2.jar
+	【功能】Litematica（投影）可以将你建造的结构保存为一个结构文件，你可以使用 Litematica 来通过结构文件创建一个全息蓝图，通过木棍可以移动全息蓝图的放置位置
+litematica-printer-all-2.4+20240729.jar
+	【功能】这是一个投影模组的拓展，它允许玩家通过在投影中放置正确的方块来更快地建造大型结构
+lithium-fabric-mc1.20.4-0.12.1.jar
+	【优化】Lithium 是一个自由及开源的优化模组，与其它优化模组不同，Lithium 致力于着一个标准，即在不修改原版机制的前提下做出更多的优化改进
+macos-input-fixes-1.6.jar
+	【优化】这个 Mod 修复了许多 Minecraft 中 MacOS 输入 Bug
+magiclib-1.20.4-0.7.398+fe2125a-stable.jar
+	【前置】魔法类库
+main-menu-credits-1.1.2.jar
+	【优化】模组添加一种将信息添加到用户标题屏幕的方式
+make_bubbles_pop-0.2.0-fabric-mc1.19.4+.jar
+	【细节】这个简单的客户端模组为气泡粒子添加了破裂效果
+malilib-fabric-1.20.4-0.18.1.jar
+	【前置】MaLiLib 是一个主要为 Masa 的模组提供客户端侧支持的公共代码库模组
+MasaGadget-1.20.4-3.2.334+08c8f70-stable.jar
+	【功能】给 Masa 系列模组（Malilib，Tweakeroo，MiniHUD，Litematica，ItemScroller）添加了一些特性
+mcwifipnp-1.7.0-1.20.2-fabric.jar
+	【功能】更高级联机设置
+memoryleakfix-fabric-1.17+-1.1.5.jar
+	【优化】此模组修复了 Minecraft 中的多个内存泄漏问题
+midnightlib-fabric-1.5.3.jar
+	【前置】这是一个库模组，为模组提供了通用的功能与配置系统
+minihud-fabric-1.20.4-0.30.2.jar
+	【UI】一个客户端模组，可以在屏幕上以文字显示一些信息行（迷你 F3）
+mixintrace-1.1.1+1.17.jar
+	【优化】这是一个 Fabric / Quilt 模组，它向堆栈跟踪中的类添加了一个 Mixin 列表（Mixin 配置名称）以用于崩溃报告
+ModDetectionPreventer+1.20.4-1.2.0.jar
+	【优化】这是一个简单的模组，避免了一项安全漏洞，该漏洞允许服务器检测客户端安装了哪些模组
+modelfix-1.14-fabric.jar
+	【优化】此模组修复了游戏中物品模型撕裂产生透明的线的问题
+modernfix-fabric-5.17.0+mc1.20.4.jar
+	【优化】一款集各类功能于一身的性能优化模组，可以提高性能、降低内存占用并修复现代 MC 版本（1.16 +）中的许多问题，同时不会严重影响游戏体验
+modmenu-9.2.0-beta.2.jar
+	【功能】此模组添加了一个可用于查看模组的列表（类似于 Forge 的模组菜单界面）
+morechathistory-1.3.0.jar
+	【优化】多聊天记录
+moreculling-1.20.4-0.24.0.jar
+	【优化】这是一个通过改变方块面剔除来提高游戏性能的模组
+moremcmeta-1.20.4-4.4.7-fabric.jar
+	【优化】本模组通过更多设置来允许玩家设置几乎所有纹理的动画
+NoChatReports-FABRIC-1.20.4-v2.6.1.jar
+	【优化】这个模组移除了在 Java 版 1.19 及更高版本中附加在每条聊天信息上的加密签名
+noisium-fabric-2.0.3+mc1.20.2-1.20.4.jar
+	【优化】优化世界生成性能，带来更好的游戏体验
+nonarrator-1.0.1.jar
+	【优化】一个简单的模组，可以禁用 Minecraft 中的叙述者功能
+notenoughanimations-fabric-1.7.3-mc1.20.4.jar
+	【优化】这一模组为游戏带来了许多在第一人称中缺失的的第三人称动画，有或是对某些第三人称动画作出了修改，使它们与动画本身所想表达的，以及在第一人称视角下所想表达的更为贴近、更具代表性
+noxesium-1.2.2.jar
+	【优化】是一个面向客户端的优化模组
+oh-my-minecraft-client-1.20.4-0.5.332+477abff-beta.jar
+	【优化】让 Minecraft 客户端再次好起来
+optigui-2.3.0-beta.2.jar
+	【优化】一个插入式替代 OptiFine 自定义 GUI 功能的客户端模组
+packetfixer-fabric-1.3.1-1.20.2-to-1.20.4.jar
+	【优化】此 Mod 提高了数据包大小上限，进而修复了因传输网络数据包异常而被踢出的一系列问题
+paginatedadvancements-2.4.2.jar
+	【优化】本模组让游戏中的进度界面不再那么难看
+panorama_screens-1.0+fabric+mc1.20.4.jar
+	【优化】这个模组将存档界面 / 配置界面的背景改为标题页的全景背景
+PluslsCarpetAddition-1.20.4-0.3.190+9e97daa-beta.jar
+	【功能】这是一个 Carpet mod (Fabric Carpet) 的扩展 mod，包含了不少 NotVanilla 的有意思的功能以及特性
+PresenceFootsteps-1.11.3.jar
+	【细节】一个过于复杂的声音类模组
+puzzle-1.6.1+1.20.4.jar
+	【优化】此模组的创建是为代替 高清修复 的模组提供统一的配置，对最相关的替代方案的内置支持以及供其他模组使用的 API
+quickshulker-1.4.1-1.20.4.jar
+	【功能】Quick Shulker 允许你在不放下潜影盒（1.1.13 后还包括末影箱和工作台）的情况下，按下一个按钮实现快速打开
+raith-colormeoutlines-1.1.2.jar
+	【优化】此模组增加了可配置方块高亮选框大小和颜色的功能
+recursive-resources-2.5.2+1.20.4.jar
+	【优化】本模组为资源包界面添加了更多功能，是多资源包玩家的福音
+reeses_sodium_options-1.7.2+mc1.20.4-build.102.jar
+	【优化】此模组替换了 钠 (Sodium) 的选项屏幕，旨在改善用户体验
+replaymod-1.20.4-2.6.14.jar
+	【功能】Replay Mod 是一个用于记录、重温和分享你的游戏体验的 Minecraft Mod
+Resourcify (1.20.2-1.20.4-fabric)-1.3.6.jar
+	【功能】此模组允许你直接在游戏内查看并下载使用 Modrinth 和 CurseForge 上所有的资源包，光影包，地图，还有数据包
+RoughlyEnoughItems-14.0.688-fabric.jar
+	【UI】REI 是一个简洁且功能强大的物品及合成配方管理器，与 JEI 十分类似
+RoughlyEnoughProfessions-fabric-1.20.4-2.2.0.jar
+	【UI】类似于 JEI 工作方块，此模组为 REI 添加了允许玩家确定每个村民职业需要哪些工作方块的新功能
+rrls-4.0.3+mc1.20.4-fabric.jar
+	【优化】此模组移除了烦人的资源包重载界面，让你能够在其重载时继续进行游戏
+satin-1.16.0.jar
+	【前置】Satin 是一个简单的库，方便 Mod 作者们给他们的 Mod 添加有意思的视觉特效
+SaveMod-fabric-mc1.20.4-1.4.4.jar
+	【功能】本模组可以让玩家丝滑备份自己的存档，并且能很方便地加载备份
+screenshot-to-clipboard-1.0.9-fabric.jar
+	【功能】在玩家安装本模组后，玩家在游戏中的截图都会被自动复制到剪切板上
+seamless-loading-screen-2.1.1+1.20.4-fabric.jar
+	【优化】在你退出世界或服务器的时候截取一张游戏截图，并在你重新加入游戏加载的时候显示
+Searchables-fabric-1.20.4-1.0.6.jar
+	【前置】本模组是一个前置模组，添加了助手方法，允许根据组件搜索和过滤元素，并内置自动完成功能
+serverpingerfixer-1.0.4.jar
+	【优化】此模组改进了多人游戏界面的服务器延迟显示，显著提高了快速点击刷新按钮时的刷新速度
+shulkerboxtooltip-fabric-4.0.8+1.20.4.jar
+	【UI】该模组添加了在背包中将鼠标悬停在潜影盒上方时按 shift 键显示预览窗口来查看内部物品的功能
+skinlayers3d-fabric-1.6.4-mc1.20.4.jar
+	【细节】以 3D 立体的方式渲染玩家皮肤的第二层，使皮肤看起来更为立体并充满质感
+sodium-extra-0.5.4+mc1.20.4-build.116.jar
+	【优化】此模组是 钠 (Sodium) 的拓展模组，将 高清修复 (OptiFine) 中的大部分吸引眼球的选项带到了 钠 (Sodium) 中；此外还提供一些如视觉错误修复和其他性能选项等 钠 (Sodium) 中尚未提供的功能
+sodium-fabric-0.5.8+mc1.20.4.jar
+	【优化】Sodium 是适用于 Minecraft 1.16+ 客户端的免费的强大渲染引擎暨优化模组，它在修复一些图形问题的同时大大提高了渲染性能
+sodium-shadowy-path-blocks-3.3.0.jar
+	【优化】SSPB是 Sodium 的扩展模组，它为所有非流体的非完整方块重新引入了类似于原版的平滑光照，因为 Sodium 移除了这个特性
+sound-physics-remastered-fabric-1.20.4-1.3.1.jar
+	【细节】组为游戏带来了逼真的声音衰减、混响，以及穿过方块时的声音吸收
+StackDeobfuscatorFabric-1.4.2+bf1fc22.jar
+	【优化】该模组将控制台中显示的所有错误和所有崩溃报告从不可读的生产名称重新映射到可读的映射名称
+starlight-1.1.3+fabric.f5dcd1a.jar
+	【优化】由 Tuinity 作者 Leaf 开发的光照优化 Mod，对 Minecraft 的光照引擎进行了完整的重写
+status-effect-bars-1.0.4.jar
+	【UI】这是一个客户端的 Fabric/Quilt 模组，为状态效果叠加层和物品栏中添加可自定义的小状态条，以显示效果的剩余持续时间
+stendhal-1.4.1-1.20.2.jar
+	【优化】Stendhal 是一个客户端 Fabric 模组，为书、告示牌、铁砧和游戏内聊天提供了新的和增强的视觉实用程序
+supermartijn642configlib-1.1.8a-fabric-mc1.20.2.jar
+	【前置】SuperMartijn642's Config Lib 是 SuperMartijn642 制作的众多模组的前置配置 LIB
+suppressopengl1280-1.2.1.jar
+	【优化】此模组可防止多次记录 OpenGL 错误
+syncmatica-1.20.4-0.3.11.jar
+	【功能】Syncmatica 模组可以使您在服务器中与其他安装了 Syncmatica 模组的玩家一起共享 投影 (Litematica) 模组的原理图及其位置
+threadtweak-fabric-1.20.4-0.1.2.jar
+	【优化】ThreadTweak 允许玩家改善和调整 Minecraft CPU 线程
+trade-cycling-fabric-1.20.4-1.0.11.jar
+	【功能】交易刷新
+tweakermore-mc1.20.4-v3.17.0.jar
+	【功能】客户端微调工具箱，旨在提高游戏体验
+tweakeroo-fabric-1.20.4-0.19.2.jar
+	【功能】包含多种对原版游戏的优化、降低客户端卡顿等
+TweakMyClient-1.20.4-3.6.416+d193e20-beta.jar
+	【优化】此模组提供多个优化功能
+villagernames-1.20.4-7.3.jar
+	【功能】本模组是一个轻量的可配置模组，它为所有未命名的村民提供了一些预先设置的名字，不管是现有的村民还是新出生的村民皆会被命名
+villagertimetable-1.0.0.jar
+	【UI】这个 Mod 添加了可视化村民日程安排表
+visuality-0.7.4+1.20.4.jar
+	【细节】Visuality 是一个简单的装饰模组，主要给原版游戏添加了新的粒子效果，以丰富视觉
+vmp-fabric-mc1.20.4-0.2.0+beta.7.139-all.jar
+	【优化】一个旨在优化高玩家数下性能表现的服务器模组
+voicechat-fabric-1.20.4-2.5.22.jar
+	【功能】这是一款能让你的 MC 服务器拥有语音通话功能的模组
+worldedit-mod-7.3.0.jar
+	【功能】广受好评的建筑辅助插件 WorldEdit 创世神的模组版本
+world_preview-fabric-1.20.3-1.1.6.jar
+	【功能】此模组可让玩家在创建新的世界时预览种子的地图
+xaero-map-addition-1.20.4-0.2.96+bcdd81f-beta.jar
+	【UI】地图拓展
+XaeroPlus-2.8+fabric-1.20.4-WM1.38.4-MM24.1.1.jar
+	【UI】地图增强
+XaerosWorldMap_1.38.4_Fabric_1.20.4.jar
+	【UI】Xaero的世界地图 Mod 为你的 Minecraft 客户端添加了一个自动缓存全屏地图
+Xaeros_Minimap_24.1.1_Fabric_1.20.4.jar
+	【UI】小地图
+xplus-autofish-1.0.0-fabric-1.20.4.jar
+	【功能】自动钓鱼
+YetAnotherConfigLib-3.4.2+1.20.4-fabric.jar
+	【前置】另一个配置库
+yosbr-0.1.2.jar
+	【优化】这个模组提供一个简单的功能：如果某个选项文件不存在，则会使用玩家提供的默认选项
+Zoomify-2.13.4+1.20.4.jar
+	【功能】一款拥有缩放功能的 Fabric 模组，不仅自带很多种缩放算法，而且还拥有非常丰富的自定义选项

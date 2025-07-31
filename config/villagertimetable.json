@@ -1,0 +1,5 @@
+{
+  "hud_rendering": true,
+  "time_format": "24h",
+  "render_location": "south_west"
+}
