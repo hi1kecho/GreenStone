@@ -6,7 +6,7 @@
         "zoomify_gui_zoomintransition_name": 12,
         "zoomify_gui_zoomouttransition_name": 12,
         "zoomify_gui_affecthandfov_name": true,
-        "zoomify_gui_retainzoomsteps_name": false
+        "zoomify_gui_retainzoomsteps_name": true
     },
     "zoomify_gui_category_scrolling": {
         "zoomify_gui_scrollzoom_name": true,

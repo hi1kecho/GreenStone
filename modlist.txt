@@ -1,5 +1,9 @@
 0World2Create-Universal-1.19-1.20.X-1.0.0.jar
 	【优化】本模组让 Minecraft 像 1.19 之前的版本一样在没有存档时仍然显示空的存档列表页面
+AFKfish-0.3.jar
+	【功能】这个 mod 会在玩家钓到鱼时自动收杆和抛竿
+altoclef-1.20.4-beta1.jar
+	【功能】一个依赖baritone模组功能的客户端机器人
 amecs-1.3.11+mc.1.20.4.jar
 	【优化】一个按键只能绑定一个功能，之前绑定的功能会变成红色并失去作用
 animatica-0.6+1.20.jar
@@ -12,12 +16,16 @@ architectury-11.1.17-fabric.jar
 	【前置】Architectury 是对 Fabric API 和 Forge API 的抽象化调用的 API
 authme-8.0.0+1.20.4.jar
 	【功能】Auth Me 会在多人游戏界面增加切换账号的功能按钮，可为你节省切换账号时所需重启的时间
-axolotlbuckets-1.2.0+1.20.jar
-	【UI】本模组可以使美西螈在桶里的时候显示美西螈的颜色和年龄
+axolotl-item-fix-1.1.7.jar
+	【优化】这个客户端 Fabric 模组使桶的纹理可以表示其中的实际内容
 BadOptimizations-2.1.1.jar
 	【优化】目前的主要功能：避免光照贴图的更新、避免计算云和天空的颜色、在不打开 F3 时不进行 F3 计算、不进行没必要的视场角计算、替换了 ToastManager 中的 removeIf 调用
 badpackets-fabric-0.6.1.jar
 	【前置】Bad Packets 是一款允许在不同的模组平台之间进行数据包消息传递的库
+balm-fabric-1.20.4-9.0.9.jar
+	【前置】作者自己的跨平台前置 Lib，该 Lib 便于作者跨 Fabric 与 Forge 平台编写 1.17+ 版本的 Mod
+baritone-unoptimized-fabric-1.20.4-beta1.jar
+	【功能】Baritone 是一个寻路机器人模组
 bedrodium-0.2.3.jar
 	【优化】通过移除基岩的不可见侧面进行细小的优化
 betterbeds-1.3.0-1.19.3.jar
@@ -112,6 +120,10 @@ dynamiccrosshair-7.7+1.20.4-fabric.jar
 	【优化】本模组可依据当前游戏内容自动隐藏或改变准星形状
 edgelesschatscreen-1.1.2-fabric1.20.jar
 	【优化】本模组可以让你的聊天框贴紧屏幕边缘
+emi-1.1.6+1.20.4+fabric.jar
+	【UI】EMI 是一个功能丰富、易于使用的物品及配方管理器
+emitrades-fabric-1.3.0+mc1.20.4.jar
+	【UI】此模组为 EMI 添加了村民交易查看支持
 EnchantmentDescriptions-Fabric-1.20.4-20.0.3.jar
 	【UI】附魔描述是一个轻量级客户端模组，它在附魔的工具提示中增加了对附魔的描述
 enchlevel-langpatch-2.2.2.jar
@@ -150,6 +162,8 @@ ForgeConfigAPIPort-v20.4.3-1.20.4-Fabric.jar
 	【前置】Forge Config API Port 在 Fabric 构建了一整个 Forge 配置 API，这以便于将模组移植到 Fabric 上而减少修改
 fsb-interop-1.3.6+mc1.20.2-build.52.jar
 	【优化】Nuit Interop 会将 MCPatcher/OptiFine 资源包自定义天空转换为 Nuit 的格式
+ftb-essentials-fabric-2004.1.3.jar
+	【功能】为服务器添加了许多基本的实用程序命令
 ftb-library-fabric-2004.2.4.jar
 	【前置】1.12.2 版本之后 FTB 系列模组中所有需要 GUI 的通用前置模组
 ftb-ultimine-fabric-2004.1.0.jar
@@ -270,10 +284,6 @@ replaymod-1.20.4-2.6.14.jar
 	【功能】Replay Mod 是一个用于记录、重温和分享你的游戏体验的 Minecraft Mod
 Resourcify (1.20.2-1.20.4-fabric)-1.3.6.jar
 	【功能】此模组允许你直接在游戏内查看并下载使用 Modrinth 和 CurseForge 上所有的资源包，光影包，地图，还有数据包
-RoughlyEnoughItems-14.0.688-fabric.jar
-	【UI】REI 是一个简洁且功能强大的物品及合成配方管理器，与 JEI 十分类似
-RoughlyEnoughProfessions-fabric-1.20.4-2.2.0.jar
-	【UI】类似于 JEI 工作方块，此模组为 REI 添加了允许玩家确定每个村民职业需要哪些工作方块的新功能
 rrls-4.0.3+mc1.20.4-fabric.jar
 	【优化】此模组移除了烦人的资源包重载界面，让你能够在其重载时继续进行游戏
 satin-1.16.0.jar
@@ -318,6 +328,8 @@ threadtweak-fabric-1.20.4-0.1.2.jar
 	【优化】ThreadTweak 允许玩家改善和调整 Minecraft CPU 线程
 trade-cycling-fabric-1.20.4-1.0.11.jar
 	【功能】交易刷新
+trashslot-fabric-1.20.4-16.0.1.jar
+	【功能】为你生存模式下的背包添加一个垃圾桶槽位
 tweakermore-mc1.20.4-v3.17.0.jar
 	【功能】客户端微调工具箱，旨在提高游戏体验
 tweakeroo-fabric-1.20.4-0.19.2.jar
@@ -346,8 +358,6 @@ XaerosWorldMap_1.38.4_Fabric_1.20.4.jar
 	【UI】Xaero的世界地图 Mod 为你的 Minecraft 客户端添加了一个自动缓存全屏地图
 Xaeros_Minimap_24.1.1_Fabric_1.20.4.jar
 	【UI】小地图
-xplus-autofish-1.0.0-fabric-1.20.4.jar
-	【功能】自动钓鱼
 YetAnotherConfigLib-3.4.2+1.20.4-fabric.jar
 	【前置】另一个配置库
 yosbr-0.1.2.jar

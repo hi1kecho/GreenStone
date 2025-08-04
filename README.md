@@ -38,18 +38,18 @@
 ### 核心模组
 
 - 地毯及其拓展模组
-- tweakeroo、tweakermore
+- tweakeroo、tweakermore、TweakMyClient
 - 投影、投影打印机、投影共享
 - 快捷潜影盒
+- 物品滚轮
 - OMMC
-- 元素周期表全家桶
 - 存档备份
 - 种子预览
 
 ### 显示模组
 
 - MiniHUD
-- REI
+- EMI
 - Jade
 - 小地图
 - 苹果皮
@@ -59,6 +59,9 @@
 
 - 搬运
 - 连锁采集
+- 基本指令
+- 垃圾槽
+- 自动机器人
 
 ### 内置资源包
 

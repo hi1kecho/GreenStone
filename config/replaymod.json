@@ -17,7 +17,7 @@
     ]
   },
   "recording": {
-    "recordSingleplayer": false,
+    "recordSingleplayer": true,
     "recordServer": true,
     "indicator": true,
     "autoStartRecording": false,
@@ -25,7 +25,7 @@
     "renameDialog": true
   },
   "replay": {
-    "showChat": false,
+    "showChat": true,
     "showServerIPs": true,
     "camera": "replaymod.camera.classic",
     "camera_valid_values": [

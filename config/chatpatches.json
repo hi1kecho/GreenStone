@@ -27,7 +27,7 @@
   "messageDrafting": false,
   "onlyInvasiveDrafting": false,
   "searchDrafting": false,
-  "hideSearchButton": false,
+  "hideSearchButton": true,
   "vanillaClearing": false,
   "copyColor": 5636095,
   "copyReplyFormat": "/msg $ "

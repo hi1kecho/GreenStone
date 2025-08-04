@@ -3,5 +3,5 @@
     "mute_errors": true,
     "mute_warns": true,
     "cache_ms": 50,
-    "broken_paths": true
+    "broken_paths": false
 }

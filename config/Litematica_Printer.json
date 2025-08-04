@@ -1,0 +1,72 @@
+{
+  "Litematica_Printer": {
+    "快捷潜影盒": false,
+    "printingMode": true,
+    "打印机工作间隔": 0,
+    "打印机工作半径": 3,
+    "强制循环半径": 6,
+    "半径模式": "sphere",
+    "模式切换": "single",
+    "打印机模式": "printer",
+    "渲染层数限制": false,
+    "排流体方块名单": [
+      "minecraft:sand"
+    ],
+    "基岩模式白名单": [
+      "minecraft:bedrock"
+    ],
+    "跳过放置": false,
+    "跳过放置名单": [],
+    "侦测器放置检测": false,
+    "有序存放": false,
+    "精准放置": true,
+    "强制潜行": false,
+    "凭空放置": true,
+    "打印含水方块": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "替换列表方块": true,
+    "可替换方块": [
+      "minecraft:air",
+      "minecraft:snow",
+      "minecraft:lava",
+      "minecraft:water",
+      "minecraft:bubble_column",
+      "minecraft:grass_block"
+    ],
+    "stripLogs": false,
+    "挖掘模式限制器": "me",
+    "挖掘模式限制": "none",
+    "挖掘白名单": [
+      ""
+    ],
+    "挖掘黑名单": [
+      ""
+    ],
+    "打开设置菜单": {
+      "keys": "Z,Y"
+    },
+    "print": {
+      "keys": "M,P"
+    },
+    "togglePrintingMode": {
+      "keys": "LEFT_SHIFT,M,P"
+    },
+    "切换模式": {
+      "keys": "M,J"
+    },
+    "关闭全部模式": {
+      "keys": "LEFT_CONTROL,G"
+    },
+    "容器同步": {
+      "keys": "Y"
+    },
+    "test": {
+      "keys": ""
+    },
+    "容器同步和打印机添加库存高亮颜色": "#4CFF4CE6"
+  }
+}

@@ -3,7 +3,7 @@
   "enableSignBuffering": true,
   "targetFPSNameTags": 60,
   "enableNametagScreenBuffering": true,
-  "pollRate": 60,
+  "pollRate": 240,
   "chatSettings": {
     "enabled": true,
     "maxFps": 20,

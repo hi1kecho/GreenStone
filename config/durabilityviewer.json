@@ -46,7 +46,7 @@
   "durabilityviewer.config.armorhotbar": {
     "key": "durabilityviewer.config.armorhotbar",
     "toolTip": "durabilityviewer.config.tt.armorhotbar",
-    "value": true,
+    "value": false,
     "defaultValue": false
   },
   "durabilityviewer.config.mindurability": {

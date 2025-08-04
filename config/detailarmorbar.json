@@ -11,7 +11,7 @@
   "toggleEmptyBar": true,
   "toggleItemBar": true,
   "toggleVanillaTexture": true,
-  "toggleCompatibleHeartMod": false,
+  "toggleCompatibleHeartMod": true,
   "toggleInverseSlot": false,
   "toggleSortSpecialItem": true
 }

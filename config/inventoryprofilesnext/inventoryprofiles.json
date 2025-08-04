@@ -3,20 +3,66 @@
         "highlight_foused_items_animated": {
             "value": true
         },
-        "villager_trading_group_1": {
-            "value": true
-        },
-        "villager_trading_group_2": {
-            "value": true
-        },
+        "enable_updates_check": false,
         "restock_hotbar": {
             "value": true
         },
+        "stop_at_screen_close": true,
         "first_run": false
     },
     "LockedSlotsSettings": {
-        "locked_slots_allow_pickup_into_empty": {
+        "lock_slots_disable_user_interaction": {
             "value": true
+        }
+    },
+    "AutoRefillSettings": {
+        "ignore_locked_slots": false
+    },
+    "Hotkeys": {
+        "sort_inventory": {
+            "main": {
+                "keys": "LEFT_SHIFT,R"
+            }
+        },
+        "scroll_to_chest": {
+            "main": {
+                "keys": "R,MOUSE_SCROLL_UP"
+            }
+        },
+        "scroll_to_inventory": {
+            "main": {
+                "keys": "R,MOUSE_SCROLL_DOWN"
+            }
+        },
+        "global_bookmark_trade": {
+            "main": {
+                "keys": "R,B"
+            }
+        },
+        "local_bookmark_trade": {
+            "main": {
+                "keys": "R,L"
+            }
+        },
+        "do_global_trade": {
+            "main": {
+                "keys": "R,T"
+            }
+        },
+        "do_local_trade": {
+            "main": {
+                "keys": "LEFT_SHIFT,R,T"
+            }
+        },
+        "copy_nbt": {
+            "main": {
+                "keys": "LEFT_CONTROL,R,C"
+            }
+        },
+        "copy_item_id": {
+            "main": {
+                "keys": "LEFT_CONTROL,LEFT_SHIFT,R,C"
+            }
         }
     },
     "Tweaks": {

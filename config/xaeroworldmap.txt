@@ -53,7 +53,7 @@ displayClaims:true
 claimsFillOpacity:46
 claimsBorderOpacity:80
 globalVersion:1
-[XP] Fast Mapping:false
+[XP] Fast Mapping:true
 [XP] Fast Mapping Delay:250.0
 [XP] Fast Mapping Rate Limit:25.0
 [XP] Fast Zip Writes:true
@@ -65,13 +65,13 @@ globalVersion:1
 [XP] Waystone Waypoint Set:false
 [XP] Persist Dim Switch:true
 [XP] Radar While Dim Switched:true
-[XP] Transparent Obsidian Roof:false
+[XP] Transparent Obsidian Roof:true
 [XP] Roof Y Level:250.0
 [XP] Roof Obsidian Opacity:150.0
 [XP] Roof Snow Opacity:10.0
 [XP] Min WorldMap Zoom:0.1
 [XP] Skip Background Render:true
-[XP] NewChunks Highlighting:false
+[XP] NewChunks Highlighting:true
 [XP] Save/Load NewChunks to Disk:true
 [XP] New Chunks Opacity:100.0
 [XP] New Chunks Color:0
@@ -80,14 +80,14 @@ globalVersion:1
 [XP] Save/Load OldChunks to Disk:true
 [XP] Old Chunks Opacity:100.0
 [XP] Old Chunks Color:3
-[XP] Portal Highlights:false
+[XP] Portal Highlights:true
 [XP] Save/Load Portals to Disk:true
 [XP] Portal Highlights Opacity:100.0
 [XP] Portal Highlights Color:5
 [XP] WorldTools Highlights:true
 [XP] WorldTools Highlights Opacity:100.0
 [XP] WorldTools Highlights Color:1
-[XP] PortalSkip Detection:false
+[XP] PortalSkip Detection:true
 [XP] PortalSkip Opacity:100.0
 [XP] PortalSkip Color:6
 [XP] PortalSkip Portal Radius:15.0

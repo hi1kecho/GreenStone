@@ -27,9 +27,9 @@
 			// Xbox XSTS authorization url
 			"xboxXstsUrl": "https://xsts.auth.xboxlive.com/xsts/authorize",
 			// Minecraft authentication url
-			"mcAuthUrl": "http://127.0.0.1:62567/https/api.minecraftservices.com/authentication/login_with_xbox",
+			"mcAuthUrl": "http://127.0.0.1:64339/https/api.minecraftservices.com/authentication/login_with_xbox",
 			// Minecraft profile url
-			"mcProfileUrl": "http://127.0.0.1:62567/https/api.minecraftservices.com/minecraft/profile"
+			"mcProfileUrl": "http://127.0.0.1:64339/https/api.minecraftservices.com/minecraft/profile"
 		},
 		// Login Offline
 		"offline": {

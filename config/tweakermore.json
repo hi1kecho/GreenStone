@@ -33,7 +33,7 @@
     "bossBarScale": 1.0,
     "chatMessageLimit": 100,
     "clientEntityTargetingSelectAll": {
-      "enabled": false,
+      "enabled": true,
       "hotkey": {
         "keys": ""
       }
@@ -41,7 +41,7 @@
     "connectionSimulatedDelay": 0,
     "daytimeOverrideValue": 0,
     "disableEntityRenderInterpolationForcedSync": false,
-    "f3IUseRelatedCoordinate": false,
+    "f3IUseRelatedCoordinate": true,
     "f3IUseRelatedCoordinateShift1": true,
     "flyDrag": 0.09,
     "itemTooltipHideUntilMouseMove": false,
@@ -64,7 +64,7 @@
     "signEditScreenEscDiscard": true,
     "spectatorTeleportMenuIncludeSpectator": false,
     "steveAlexOnlyDefaultSkins": false,
-    "tickFreezeAutoReplaceWithUnfreeze": false,
+    "tickFreezeAutoReplaceWithUnfreeze": true,
     "yeetServerIpReversedDnsLookup": false,
     "applyTweakerMoreOptionLabelGlobally": false,
     "eCraftItemScrollerCompact": false,
@@ -83,8 +83,8 @@
     "replayAccurateTimelineTimestamp": true,
     "serverDataSyncerQueryInterval": 1,
     "serverDataSyncerQueryLimit": 512,
-    "shaderGameTimeAsWorldTime": true,
-    "xmapNoSessionFinalizationWait": false,
+    "shaderGameTimeAsWorldTime": false,
+    "xmapNoSessionFinalizationWait": true,
     "xmapWaypointFreecamCompact": true,
     "lmCustomSchematicBaseDirectoryEnabledPorting": false,
     "lmCustomSchematicBaseDirectoryPorting": "E:\\HMCL\\.minecraft\\versions\\1.20.4-Fabric\\schematics",
@@ -103,11 +103,11 @@
       "enabled": false
     },
     "copySignTextToClipBoard": {
-      "keys": ""
+      "keys": "BUTTON_3"
     },
     "creativePickBlockWithState": {
       "keys": "LEFT_ALT",
-      "enabled": true
+      "enabled": false
     },
     "infoViewRenderingKey": {
       "keys": "RIGHT_ALT"
@@ -119,7 +119,7 @@
       "keys": ""
     },
     "openTweakerMoreConfigGui": {
-      "keys": "K,C"
+      "keys": "K,G"
     },
     "tweakerMoreDebugResetOptionStatistic": {
       "keys": ""
@@ -211,13 +211,13 @@
       }
     },
     "autoVillagerTradeFavorites": {
-      "enabled": false,
+      "enabled": true,
       "hotkey": {
         "keys": ""
       }
     },
     "autoRespawn": {
-      "enabled": false,
+      "enabled": true,
       "hotkey": {
         "keys": ""
       }
@@ -289,9 +289,9 @@
       }
     },
     "safeAfk": {
-      "enabled": true,
+      "enabled": false,
       "hotkey": {
-        "keys": ""
+        "keys": "K,S"
       }
     },
     "schematicProPlace": {
@@ -331,7 +331,7 @@
       }
     },
     "daytimeOverride": {
-      "enabled": true,
+      "enabled": false,
       "hotkey": {
         "keys": ""
       }
@@ -441,7 +441,7 @@
       "keys": ""
     },
     "safeAfk": {
-      "keys": ""
+      "keys": "K,S"
     },
     "schematicProPlace": {
       "keys": ""
@@ -497,7 +497,7 @@
       }
     },
     "disableCameraFrustumCulling": {
-      "enabled": false,
+      "enabled": true,
       "hotkey": {
         "keys": ""
       }
@@ -545,7 +545,7 @@
       }
     },
     "disableHorizonShadingRendering": {
-      "enabled": false,
+      "enabled": true,
       "hotkey": {
         "keys": ""
       }
@@ -569,7 +569,7 @@
       }
     },
     "disableSignTextLengthLimit": {
-      "enabled": false,
+      "enabled": true,
       "hotkey": {
         "keys": ""
       }
@@ -656,8 +656,8 @@
     }
   },
   "Fixes": {
-    "fixChestMirroring": false,
-    "fixHoverTextScale": false,
+    "fixChestMirroring": true,
+    "fixHoverTextScale": true,
     "isScrollStacksFallbackFixPorting": false
   },
   "internal": {
@@ -707,16 +707,16 @@
         "useAmount": 0
       },
       "autoPutBackExistedItem": {
-        "lastUsedTime": 0,
-        "useAmount": 0
+        "lastUsedTime": 1754298679560,
+        "useAmount": 2
       },
       "autoVillagerTradeFavorites": {
-        "lastUsedTime": 0,
-        "useAmount": 0
+        "lastUsedTime": 1754298681357,
+        "useAmount": 1
       },
       "autoRespawn": {
-        "lastUsedTime": 0,
-        "useAmount": 0
+        "lastUsedTime": 1754298678941,
+        "useAmount": 1
       },
       "containerProcessorHint": {
         "lastUsedTime": 0,
@@ -731,19 +731,19 @@
         "useAmount": 0
       },
       "copyItemDataToClipBoard": {
-        "lastUsedTime": 0,
-        "useAmount": 0
+        "lastUsedTime": 1754298334811,
+        "useAmount": 2
       },
       "copySignTextToClipBoard": {
         "lastUsedTime": 0,
         "useAmount": 0
       },
       "creativePickBlockWithState": {
-        "lastUsedTime": 1753969209370,
-        "useAmount": 1
+        "lastUsedTime": 0,
+        "useAmount": 0
       },
       "fireworkRocketThrottler": {
-        "lastUsedTime": 1753969141325,
+        "lastUsedTime": 1754298706842,
         "useAmount": 1
       },
       "fireworkRocketThrottlerCooldown": {
@@ -855,8 +855,8 @@
         "useAmount": 0
       },
       "infoViewRespawnBlockExplosion": {
-        "lastUsedTime": 1753969114023,
-        "useAmount": 2
+        "lastUsedTime": 0,
+        "useAmount": 0
       },
       "infoViewRespawnBlockExplosionTextAlpha": {
         "lastUsedTime": 0,
@@ -931,19 +931,19 @@
         "useAmount": 0
       },
       "safeAfk": {
-        "lastUsedTime": 1753969032653,
-        "useAmount": 1
+        "lastUsedTime": 0,
+        "useAmount": 0
       },
       "safeAfkHealthThreshold": {
         "lastUsedTime": 0,
         "useAmount": 0
       },
       "schematicProPlace": {
-        "lastUsedTime": 1753969006525,
+        "lastUsedTime": 1754298568610,
         "useAmount": 1
       },
       "schematicBlockPlacementRestriction": {
-        "lastUsedTime": 1753969023670,
+        "lastUsedTime": 1754298575631,
         "useAmount": 1
       },
       "schematicBlockPlacementRestrictionHint": {
@@ -975,7 +975,7 @@
         "useAmount": 0
       },
       "villagerOfferUsesDisplay": {
-        "lastUsedTime": 1753968947625,
+        "lastUsedTime": 1754298553099,
         "useAmount": 1
       },
       "barrierParticleAlwaysVisible": {
@@ -1011,16 +1011,16 @@
         "useAmount": 0
       },
       "clientEntityTargetingSelectAll": {
-        "lastUsedTime": 0,
-        "useAmount": 0
+        "lastUsedTime": 1754298075599,
+        "useAmount": 1
       },
       "connectionSimulatedDelay": {
         "lastUsedTime": 0,
         "useAmount": 0
       },
       "daytimeOverride": {
-        "lastUsedTime": 1753969196619,
-        "useAmount": 1
+        "lastUsedTime": 0,
+        "useAmount": 0
       },
       "daytimeOverrideValue": {
         "lastUsedTime": 0,
@@ -1031,11 +1031,11 @@
         "useAmount": 0
       },
       "disableCameraFrustumCulling": {
-        "lastUsedTime": 0,
-        "useAmount": 0
+        "lastUsedTime": 1754298188144,
+        "useAmount": 1
       },
       "disableCameraSubmersionFog": {
-        "lastUsedTime": 1753969187791,
+        "lastUsedTime": 1754298183572,
         "useAmount": 1
       },
       "disableCreativeFlyClimbingCheck": {
@@ -1043,15 +1043,15 @@
         "useAmount": 0
       },
       "disableDarkSkyRendering": {
-        "lastUsedTime": 1753969179433,
+        "lastUsedTime": 1754298178110,
         "useAmount": 1
       },
       "disableDarknessEffect": {
-        "lastUsedTime": 1753969180743,
+        "lastUsedTime": 1754298181771,
         "useAmount": 1
       },
       "disableEntityDeathTilting": {
-        "lastUsedTime": 1753969173637,
+        "lastUsedTime": 1754298175253,
         "useAmount": 1
       },
       "disableEntityModelRendering": {
@@ -1067,56 +1067,56 @@
         "useAmount": 0
       },
       "disableHorizonShadingRendering": {
-        "lastUsedTime": 0,
-        "useAmount": 0
+        "lastUsedTime": 1754298171225,
+        "useAmount": 1
       },
       "disableLightUpdates": {
         "lastUsedTime": 0,
         "useAmount": 0
       },
       "disablePistonBlockBreakingParticle": {
-        "lastUsedTime": 1753969162860,
+        "lastUsedTime": 1754298163585,
         "useAmount": 1
       },
       "disableRedstoneParticle": {
-        "lastUsedTime": 1753969161738,
+        "lastUsedTime": 1754298156883,
         "useAmount": 1
       },
       "disableSignTextLengthLimit": {
-        "lastUsedTime": 0,
-        "useAmount": 0
+        "lastUsedTime": 1754298154269,
+        "useAmount": 1
       },
       "disableSlimeBlockBouncing": {
         "lastUsedTime": 0,
         "useAmount": 0
       },
       "disableTiltViewWhenHurt": {
-        "lastUsedTime": 1753969156457,
+        "lastUsedTime": 1754298150111,
         "useAmount": 1
       },
       "disableVignetteDarkness": {
-        "lastUsedTime": 1753969153855,
+        "lastUsedTime": 1754298148711,
         "useAmount": 1
       },
       "fakeNightVision": {
-        "lastUsedTime": 1753969142539,
+        "lastUsedTime": 1754298135960,
         "useAmount": 1
       },
       "fixChestMirroring": {
-        "lastUsedTime": 0,
-        "useAmount": 0
+        "lastUsedTime": 1754298261599,
+        "useAmount": 1
       },
       "fixHoverTextScale": {
-        "lastUsedTime": 0,
-        "useAmount": 0
+        "lastUsedTime": 1754298261825,
+        "useAmount": 1
       },
       "flawlessFrames": {
         "lastUsedTime": 0,
         "useAmount": 0
       },
       "f3IUseRelatedCoordinate": {
-        "lastUsedTime": 0,
-        "useAmount": 0
+        "lastUsedTime": 1754298133751,
+        "useAmount": 1
       },
       "f3IUseRelatedCoordinateShift1": {
         "lastUsedTime": 0,
@@ -1139,7 +1139,7 @@
         "useAmount": 0
       },
       "multiplayerForcedEnabled": {
-        "lastUsedTime": 1753969074829,
+        "lastUsedTime": 1754298278758,
         "useAmount": 1
       },
       "netherPortalSoundChance": {
@@ -1159,7 +1159,7 @@
         "useAmount": 0
       },
       "potionItemShouldHaveEnchantmentGlint": {
-        "lastUsedTime": 1753969052879,
+        "lastUsedTime": 1754298292359,
         "useAmount": 1
       },
       "preciseItemEntityModel": {
@@ -1179,7 +1179,7 @@
         "useAmount": 0
       },
       "shulkerBoxItemContentHint": {
-        "lastUsedTime": 1753968977295,
+        "lastUsedTime": 1754298032030,
         "useAmount": 1
       },
       "shulkerBoxItemContentHintScale": {
@@ -1187,11 +1187,11 @@
         "useAmount": 0
       },
       "shulkerBoxTooltipEnchantmentHint": {
-        "lastUsedTime": 1753968974961,
+        "lastUsedTime": 1754298029407,
         "useAmount": 1
       },
       "shulkerBoxTooltipFillLevelHint": {
-        "lastUsedTime": 1753968973783,
+        "lastUsedTime": 1754298027950,
         "useAmount": 1
       },
       "shulkerBoxTooltipHintLengthLimit": {
@@ -1199,19 +1199,19 @@
         "useAmount": 0
       },
       "shulkerBoxTooltipPotionInfoHint": {
-        "lastUsedTime": 1753968970642,
+        "lastUsedTime": 1754298025831,
         "useAmount": 1
       },
       "signMultilinePasteSupport": {
-        "lastUsedTime": 1753968959444,
+        "lastUsedTime": 1754297995805,
         "useAmount": 1
       },
       "signEditScreenCancelButton": {
-        "lastUsedTime": 1753968968200,
+        "lastUsedTime": 1754298013105,
         "useAmount": 1
       },
       "signEditScreenEscDiscard": {
-        "lastUsedTime": 1753968968584,
+        "lastUsedTime": 1754298012936,
         "useAmount": 1
       },
       "spectatorTeleportMenuIncludeSpectator": {
@@ -1223,8 +1223,8 @@
         "useAmount": 0
       },
       "tickFreezeAutoReplaceWithUnfreeze": {
-        "lastUsedTime": 0,
-        "useAmount": 0
+        "lastUsedTime": 1754298318080,
+        "useAmount": 1
       },
       "unlimitedBlockEntityRenderDistance": {
         "lastUsedTime": 0,
@@ -1235,7 +1235,7 @@
         "useAmount": 0
       },
       "weatherOverride": {
-        "lastUsedTime": 1753968945832,
+        "lastUsedTime": 1754297979069,
         "useAmount": 1
       },
       "weatherOverrideValue": {
@@ -1247,8 +1247,8 @@
         "useAmount": 0
       },
       "applyTweakerMoreOptionLabelGlobally": {
-        "lastUsedTime": 0,
-        "useAmount": 0
+        "lastUsedTime": 1754298410430,
+        "useAmount": 2
       },
       "eCraftItemScrollerCompact": {
         "lastUsedTime": 0,
@@ -1291,7 +1291,7 @@
         "useAmount": 0
       },
       "mlShulkerBoxPreviewSupportEnderChest": {
-        "lastUsedTime": 1753969082434,
+        "lastUsedTime": 1754297817198,
         "useAmount": 1
       },
       "ofSantaHat": {
@@ -1323,11 +1323,11 @@
         "useAmount": 0
       },
       "replayAccurateTimelineTimestamp": {
-        "lastUsedTime": 1753969040199,
+        "lastUsedTime": 1754297844985,
         "useAmount": 1
       },
       "serverDataSyncer": {
-        "lastUsedTime": 1753968999038,
+        "lastUsedTime": 1754297891625,
         "useAmount": 1
       },
       "serverDataSyncerQueryInterval": {
@@ -1339,15 +1339,15 @@
         "useAmount": 0
       },
       "shaderGameTimeAsWorldTime": {
-        "lastUsedTime": 1753968985638,
-        "useAmount": 1
-      },
-      "xmapNoSessionFinalizationWait": {
         "lastUsedTime": 0,
         "useAmount": 0
       },
+      "xmapNoSessionFinalizationWait": {
+        "lastUsedTime": 1754297880696,
+        "useAmount": 1
+      },
       "xmapWaypointFreecamCompact": {
-        "lastUsedTime": 1753968930031,
+        "lastUsedTime": 1754297880345,
         "useAmount": 1
       },
       "lmCustomSchematicBaseDirectoryEnabledPorting": {

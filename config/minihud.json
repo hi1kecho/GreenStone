@@ -103,12 +103,12 @@
     "lightLevelColoredNumbers": true,
     "lightLevelNumberRotation": true,
     "lightLevelRenderThrough": false,
-    "lightLevelSkipBlockCheck": false,
-    "lightLevelUnderWater": false,
+    "lightLevelSkipBlockCheck": true,
+    "lightLevelUnderWater": true,
     "mapPreview": true,
     "mapPreviewRequireShift": true,
     "offsetSubtitleHud": true,
-    "requireSneak": false,
+    "requireSneak": true,
     "shulkerBoxPreview": true,
     "shulkerDisplayBgColor": true,
     "shulkerDisplayRequireShift": true,
@@ -117,7 +117,7 @@
     "sortLinesReversed": false,
     "structuresRenderThrough": false,
     "useCustomizedCoordinateFormat": true,
-    "useFontShadow": false,
+    "useFontShadow": true,
     "useTextBackground": true,
     "mainRenderingToggle": {
       "enabled": true,
@@ -129,7 +129,7 @@
       "keys": ""
     },
     "openConfigGui": {
-      "keys": "H,C"
+      "keys": "H,G"
     },
     "requiredKey": {
       "keys": ""
@@ -138,7 +138,7 @@
       "keys": ""
     },
     "shapeEditor": {
-      "keys": ""
+      "keys": "H,E"
     },
     "blockGridOverlayMode": "all",
     "lightLevelMarkerCondition": "spawnable",
@@ -177,7 +177,7 @@
     "infoBiomeRegistryName": false,
     "infoBlockBreakSpeed": false,
     "infoBlockInChunk": false,
-    "infoBlockPosition": true,
+    "infoBlockPosition": false,
     "infoBlockProperties": false,
     "infoChunkPosition": false,
     "infoChunkSections": false,
@@ -191,14 +191,14 @@
     "infoEntities": false,
     "infoEntitiesClientWorld": false,
     "infoEntityRegistryName": false,
-    "infoFacing": false,
+    "infoFacing": true,
     "infoFurnaceXp": false,
     "infoFPS": true,
     "infoHoneyLevel": false,
     "infoHorseSpeed": false,
     "infoHorseJump": false,
-    "infoLightLevel": true,
-    "infoLookingAtBlock": true,
+    "infoLightLevel": false,
+    "infoLookingAtBlock": false,
     "infoLookingAtBlockInChunk": false,
     "infoLookingAtEntity": false,
     "infoMemoryUsage": false,
@@ -207,8 +207,8 @@
     "infoParticleCount": false,
     "infoPing": true,
     "infoRegionFile": false,
-    "infoRotationPitch": true,
-    "infoRotationYaw": true,
+    "infoRotationPitch": false,
+    "infoRotationYaw": false,
     "infoServerTPS": true,
     "infoSlimeChunk": false,
     "infoSpeed": false,
@@ -220,7 +220,7 @@
     "infoTimeIRL": true,
     "infoTimeTotalModulo": false,
     "infoTimeWorld": false,
-    "infoWorldTimeFormatted": true
+    "infoWorldTimeFormatted": false
   },
   "InfoHotkeys": {
     "infoBeeCount": {
@@ -372,7 +372,7 @@
     }
   },
   "RendererToggles": {
-    "overlayBeaconRange": true,
+    "overlayBeaconRange": false,
     "overlayBiomeBorder": false,
     "overlayBlockGrid": false,
     "overlayConduitRange": false,
@@ -380,16 +380,16 @@
     "overlayRandomTicksFixed": false,
     "overlayRandomTicksPlayer": false,
     "overlayRegionFile": false,
-    "overlaySlimeChunks": true,
+    "overlaySlimeChunks": false,
     "overlaySpawnableColumnHeights": false,
     "overlaySpawnChunkReal": false,
     "overlaySpawnChunkPlayer": false,
-    "overlayStructureMainToggle": true,
+    "overlayStructureMainToggle": false,
     "shapeRenderer": false,
-    "debugChunkBorder": true,
+    "debugChunkBorder": false,
     "debugChunkInfo": false,
     "debugChunkOcclusion": false,
-    "debugCollisionBoxEnabled": true,
+    "debugCollisionBoxEnabled": false,
     "debugNeighborsUpdateEnabled": false,
     "debugPathfindingEnabled": false,
     "debugSolidFaceEnabled": false,
@@ -397,7 +397,7 @@
   },
   "RendererHotkeys": {
     "overlayBeaconRange": {
-      "keys": ""
+      "keys": "H,B"
     },
     "overlayBiomeBorder": {
       "keys": ""
@@ -409,7 +409,7 @@
       "keys": ""
     },
     "overlayLightLevel": {
-      "keys": ""
+      "keys": "H,L"
     },
     "overlayRandomTicksFixed": {
       "keys": ""
@@ -421,7 +421,7 @@
       "keys": ""
     },
     "overlaySlimeChunks": {
-      "keys": ""
+      "keys": "H,C"
     },
     "overlaySpawnableColumnHeights": {
       "keys": ""
@@ -433,10 +433,10 @@
       "keys": ""
     },
     "overlayStructureMainToggle": {
-      "keys": ""
+      "keys": "H,S"
     },
     "shapeRenderer": {
-      "keys": ""
+      "keys": "H,R"
     },
     "debugChunkBorder": {
       "keys": ""
