@@ -16,7 +16,7 @@ showWaypoints:true
 showIngameWaypoints:true
 displayRedstone:true
 deathpoints:true
-oldDeathpoints:true
+oldDeathpoints:false
 distance:1
 lockNorth:false
 zoom:0
@@ -70,7 +70,7 @@ hideWaypointCoordinates:false
 renderAllSets:true
 playerArrowOpacity:100
 waypointsBottom:false
-minimapShape:0
+minimapShape:1
 lightOverlayType:0
 lightOverlayMaxLight:7
 lightOverlayMinLight:0

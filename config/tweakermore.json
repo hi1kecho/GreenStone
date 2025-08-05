@@ -164,11 +164,11 @@
     "prioritizedCommandSuggestions": [],
     "weatherOverrideValue": "clear",
     "handRestockListType": "none",
-    "handRestockWhiteList": [
-      "minecraft:bucket"
-    ],
+    "handRestockWhiteList": [],
     "handRestockBlackList": [
-      "minecraft:lava_bucket"
+      "minecraft:bucket",
+      "minecraft:lava_bucket",
+      "minecraft:water_bucket"
     ],
     "ofSantaHat": {
       "value": "untouched",
@@ -735,8 +735,8 @@
         "useAmount": 2
       },
       "copySignTextToClipBoard": {
-        "lastUsedTime": 0,
-        "useAmount": 0
+        "lastUsedTime": 1754360487169,
+        "useAmount": 70
       },
       "creativePickBlockWithState": {
         "lastUsedTime": 0,
@@ -895,8 +895,8 @@
         "useAmount": 0
       },
       "pistorderClearDisplay": {
-        "lastUsedTime": 0,
-        "useAmount": 0
+        "lastUsedTime": 1754318385208,
+        "useAmount": 2
       },
       "pistorderDynamicallyInfoUpdate": {
         "lastUsedTime": 0,

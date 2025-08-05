@@ -75,7 +75,7 @@ globalVersion:1
 [XP] Save/Load NewChunks to Disk:true
 [XP] New Chunks Opacity:100.0
 [XP] New Chunks Color:0
-[XP] OldChunks Highlighting:false
+[XP] OldChunks Highlighting:true
 [XP] OldChunks Inverse:false
 [XP] Save/Load OldChunks to Disk:true
 [XP] Old Chunks Opacity:100.0

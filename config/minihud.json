@@ -108,7 +108,7 @@
     "mapPreview": true,
     "mapPreviewRequireShift": true,
     "offsetSubtitleHud": true,
-    "requireSneak": true,
+    "requireSneak": false,
     "shulkerBoxPreview": true,
     "shulkerDisplayBgColor": true,
     "shulkerDisplayRequireShift": true,
@@ -177,13 +177,13 @@
     "infoBiomeRegistryName": false,
     "infoBlockBreakSpeed": false,
     "infoBlockInChunk": false,
-    "infoBlockPosition": false,
+    "infoBlockPosition": true,
     "infoBlockProperties": false,
     "infoChunkPosition": false,
     "infoChunkSections": false,
     "infoChunkSectionsLine": false,
     "infoChunkUpdates": false,
-    "infoCoordinates": true,
+    "infoCoordinates": false,
     "infoCoordinatesScaled": false,
     "infoDifficulty": false,
     "infoDimensionId": false,
@@ -220,7 +220,7 @@
     "infoTimeIRL": true,
     "infoTimeTotalModulo": false,
     "infoTimeWorld": false,
-    "infoWorldTimeFormatted": false
+    "infoWorldTimeFormatted": true
   },
   "InfoHotkeys": {
     "infoBeeCount": {

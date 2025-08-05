@@ -1,13 +1,13 @@
 {
   "Litematica_Printer": {
     "快捷潜影盒": false,
-    "printingMode": true,
+    "printingMode": false,
     "打印机工作间隔": 0,
     "打印机工作半径": 3,
     "强制循环半径": 6,
     "半径模式": "sphere",
     "模式切换": "single",
-    "打印机模式": "printer",
+    "打印机模式": "excavate",
     "渲染层数限制": false,
     "排流体方块名单": [
       "minecraft:sand"

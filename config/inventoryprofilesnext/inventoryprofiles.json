@@ -10,6 +10,9 @@
         "stop_at_screen_close": true,
         "first_run": false
     },
+    "GuiSettings": {
+        "continuous_crafting_saved_value": false
+    },
     "LockedSlotsSettings": {
         "lock_slots_disable_user_interaction": {
             "value": true

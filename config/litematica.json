@@ -69,7 +69,7 @@
     "easyPlaceSwapInterval": 0,
     "pickBlockableSlots": "1,2,3,4,5",
     "toolItem": "minecraft:stick",
-    "printingMode": true,
+    "printingMode": false,
     "精准放置": true,
     "打印机工作间隔": 0,
     "强制循环半径": 6,
@@ -249,7 +249,7 @@
       "keys": ""
     },
     "toggleAllRendering": {
-      "keys": "M,R"
+      "keys": "M,R,A"
     },
     "toggleAreaSelectionBoxesRendering": {
       "keys": ""
@@ -276,7 +276,7 @@
       "keys": ""
     },
     "toggleSchematicRendering": {
-      "keys": "M,G"
+      "keys": "M,R,S"
     },
     "toggleSignTextPaste": {
       "keys": ""
