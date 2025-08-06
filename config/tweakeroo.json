@@ -518,7 +518,7 @@
       }
     },
     "disableSignGui": {
-      "enabled": false,
+      "enabled": true,
       "hotkey": {
         "keys": ""
       }
@@ -982,7 +982,7 @@
       "keys": ""
     },
     "tweakSignCopy": {
-      "keys": ""
+      "keys": "X,B"
     },
     "tweakSnapAim": {
       "keys": ""

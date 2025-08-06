@@ -33,7 +33,7 @@
     "bossBarScale": 1.0,
     "chatMessageLimit": 100,
     "clientEntityTargetingSelectAll": {
-      "enabled": true,
+      "enabled": false,
       "hotkey": {
         "keys": ""
       }
@@ -103,7 +103,7 @@
       "enabled": false
     },
     "copySignTextToClipBoard": {
-      "keys": "BUTTON_3"
+      "keys": ""
     },
     "creativePickBlockWithState": {
       "keys": "LEFT_ALT",
@@ -211,13 +211,13 @@
       }
     },
     "autoVillagerTradeFavorites": {
-      "enabled": true,
+      "enabled": false,
       "hotkey": {
         "keys": ""
       }
     },
     "autoRespawn": {
-      "enabled": true,
+      "enabled": false,
       "hotkey": {
         "keys": ""
       }
@@ -711,12 +711,12 @@
         "useAmount": 2
       },
       "autoVillagerTradeFavorites": {
-        "lastUsedTime": 1754298681357,
-        "useAmount": 1
+        "lastUsedTime": 1754505405388,
+        "useAmount": 2
       },
       "autoRespawn": {
-        "lastUsedTime": 1754298678941,
-        "useAmount": 1
+        "lastUsedTime": 1754505559717,
+        "useAmount": 2
       },
       "containerProcessorHint": {
         "lastUsedTime": 0,
@@ -735,8 +735,8 @@
         "useAmount": 2
       },
       "copySignTextToClipBoard": {
-        "lastUsedTime": 1754398284670,
-        "useAmount": 143
+        "lastUsedTime": 1754505290744,
+        "useAmount": 149
       },
       "creativePickBlockWithState": {
         "lastUsedTime": 0,
@@ -1011,8 +1011,8 @@
         "useAmount": 0
       },
       "clientEntityTargetingSelectAll": {
-        "lastUsedTime": 1754298075599,
-        "useAmount": 1
+        "lastUsedTime": 1754505566385,
+        "useAmount": 2
       },
       "connectionSimulatedDelay": {
         "lastUsedTime": 0,
