@@ -105,7 +105,7 @@
       "keys": ""
     },
     "executeOperation": {
-      "keys": "M,E"
+      "keys": "M,O"
     },
     "invertGhostBlockRenderState": {
       "keys": ""
@@ -195,7 +195,7 @@
       "keys": "LEFT_CONTROL,LEFT_ALT,S"
     },
     "schematicEditBreakPlaceAll": {
-      "keys": ""
+      "keys": "M,E,B"
     },
     "schematicEditBreakAllExcept": {
       "keys": ""
@@ -204,7 +204,7 @@
       "keys": ""
     },
     "schematicEditReplaceAll": {
-      "keys": ""
+      "keys": "M,E,R"
     },
     "schematicEditReplaceBlock": {
       "keys": ""
@@ -312,7 +312,7 @@
       "keys": "M,P"
     },
     "togglePrintingMode": {
-      "keys": "LEFT_SHIFT,M,P"
+      "keys": "LEFT_CONTROL,M,P"
     },
     "关闭全部模式": {
       "keys": "LEFT_CONTROL,G"

@@ -56,8 +56,12 @@ calcmod-fabric-1.20.2-1.3.1.jar
 	【功能】探索一系列为休闲玩家和技术玩家设计的功能，从基本计算到优化游戏玩法的高级工具
 capes-1.5.3+1.20.2-fabric.jar
 	【优化】一个允许你使用来自 OptiFine、LabyMod 和 Minecraftcapes 披风的模组
+Carpet-AMS-Addition-mc1.20.4-fabric-v2.54.0.jar
+	【功能】一个 Carpet 的拓展 Mod
 carpet-extra-1.20.3-1.4.128.jar
 	【功能】地毯端拓展让地毯端的功能更多
+carpet-org-addition-mc1.20.4-v1.34.2-2410110141.jar
+	【功能】一个非常 Not Vanilla 的 Carpet 扩展模组，提供了一些实用和无用的功能，以及一些新的命令
 carpet-tis-addition-mc1.20.4-v1.59.2.jar
 	【功能】这是一个 Carpet Mod Fabric 版的扩展 Mod，包含了不少有意思的功能以及特性
 CarpetTCTCAddition-1.20.4-2.2.212+46263e3-stable.jar
@@ -88,8 +92,6 @@ continuity-3.0.0-beta.5+1.20.2.jar
 	【优化】Continuity 是一个围绕现代 API 构建的 Fabric 模组，尽可能高效地提供连接纹理体验
 Controlify-2.0.0-beta.8+1.20.4.jar
 	【功能】又一个为Minecraft Java版添加控制器支持的模组 - 注重于兼容性
-Controlling-fabric-1.20.4-15.0.5.jar
-	【功能】在控制菜单按名称搜索键位的功能，便于玩家查找键位，以及只显示冲突键位的功能，使得玩家更容易修复键位冲突
 cubes-without-borders-1.1.0+1.20.jar
 	【优化】这是一个允许你在无边框全屏窗口模式下玩 Minecraft 的模组
 CustomSkinLoader_Fabric-14.19.1.jar
@@ -246,6 +248,8 @@ moreculling-1.20.4-0.24.0.jar
 	【优化】这是一个通过改变方块面剔除来提高游戏性能的模组
 moremcmeta-1.20.4-4.4.7-fabric.jar
 	【优化】本模组通过更多设置来允许玩家设置几乎所有纹理的动画
+nmuk-1.1.1+mc1.20.4.jar
+	【功能】此模组允许玩家为一个功能绑定多个按键
 NoChatReports-FABRIC-1.20.4-v2.6.1.jar
 	【优化】这个模组移除了在 Java 版 1.19 及更高版本中附加在每条聊天信息上的加密签名
 noisium-fabric-2.0.3+mc1.20.2-1.20.4.jar

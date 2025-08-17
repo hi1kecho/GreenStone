@@ -1,0 +1,9 @@
+key_modifiers_key.antighost.reveal:1,0,0
+key_modifiers_key.autofish.open_gui:1,0,0
+key_modifiers_key.durabilityviewer.showhide:1,0,0
+key_modifiers_key.villagertimetable.open_timetable:1,0,0
+key_modifiers_key.voice_chat:1,0,0
+key_modifiers_gui.xaero_waypoints_key:1,0,0
+key_modifiers_gui.xaero_open_map:1,0,0
+key_modifiers_zoomify.key.zoom:1,0,0
+key_modifiers_iris.keybind.toggleShaders:1,0,0

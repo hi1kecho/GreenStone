@@ -35,3 +35,22 @@
 
 - 删除 (-) [FreshAnimations_v1.8.1.zip]
 - 删除 (-) [XPlus 2.0 Basic ResourcePack v1.0.1.zip] [XPlus ClassicOre by Bili@_Flare_ MCBBS@gfbdhd port by Wudji.zip] [XPlus Font Pack v1.1.0.zip]
+
+# **v1.0.2**
+
+## 优化按键冲突，新增拓展模组，更改模组配置
+
+### 反馈处理
+
+- BBSMC#Uo6IPo05
+
+### 模组变更
+
+- 新增 (+) [Carpet-AMS-Addition-mc1.20.4-fabric-v2.54.0.jar]
+- 新增 (+) [carpet-org-addition-mc1.20.4-v1.34.2-2410110141.jar]
+- 新增 (+) [nmuk-1.1.1+mc1.20.4.jar]
+- 删除 (-) [Controlling-fabric-1.20.4-15.0.5.jar]
+
+### 资源包变更
+
+- 替换 [Redstone Display v3.2forMC1.20.2_1.20.3.zip] (->) [Greenstone Display v3.2.zip]
