@@ -49,6 +49,7 @@
 - 新增 (+) [Carpet-AMS-Addition-mc1.20.4-fabric-v2.54.0.jar]
 - 新增 (+) [carpet-org-addition-mc1.20.4-v1.34.2-2410110141.jar]
 - 新增 (+) [nmuk-1.1.1+mc1.20.4.jar]
+- 新增 (+) [VisibleTraders-0.0.4.jar]
 - 删除 (-) [Controlling-fabric-1.20.4-15.0.5.jar]
 
 ### 资源包变更
