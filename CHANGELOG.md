@@ -55,3 +55,21 @@
 ### 资源包变更
 
 - 替换 [Redstone Display v3.2forMC1.20.2_1.20.3.zip] (->) [Greenstone Display v3.2.zip]
+
+# **v1.0.3**
+
+## 新增辅助模组，优化模组冲突，更新部分模组
+
+### 反馈处理
+
+- BBSMC#xSW1iWGP
+
+### 模组变更
+
+- 替换 [collective-1.20.4-7.30.jar] (->) [collective-1.20.4-7.64.jar]
+- 新增 (+) [BetterThanMending-fabric-2.0.0.jar]
+- 新增 (+) [enchanttweaker-1.4.9+mc1.20.3-1.20.4.jar]
+- 新增 (+) [Extra Recipe-2.3-26.jar]
+- 新增 (+) [grind-enchantments-3.1.2+1.20.4.jar]
+- 新增 (+) [infinitetrading-1.20.4-4.4.jar]
+- 新增 (+) [insecticide-lib-0.14.2+1.20.2-1.20.4.jar]

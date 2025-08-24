@@ -40,6 +40,8 @@ betterstats-3.9.7+fabric-1.20.4.jar
 	【优化】本模组用一个改良的全新统计界面替换了原版统计界面，以使其更易于使用，并提供一些有帮助的功能
 bettertaskbar-fabric-mc1.20.2-1.8.0.jar
 	【优化】模组通过调用 Windows 系统中超级任务栏的相关 API 来达成适配系统超级任务栏的目的
+BetterThanMending-fabric-2.0.0.jar
+	【功能】玩家不仅可以通过获得经验来修复物品，还可以手持带有经验修补附魔的物品，接着同时按下 Shift 和鼠标右键，从而直接使用玩家身上的经验来修复它
 better_log4j_config-1.2.0-fabric.jar
 	【优化】一个简单的 Fabric 或 Quilt 模组，通过重新配置 Log4j 以改进日志格式
 Boat-Item-View-Fabric-1.20.1-0.0.5.jar
@@ -82,7 +84,7 @@ CleanF3-mc1.20.x-0.4.4.jar
 	【优化】Clean F3 是一个轻量化的模组，移除了游戏内调试界面的一些无用信息，使其更清晰明了，观感更好
 cloth-config-13.0.121-fabric.jar
 	【前置】一个 Fabric 和 (Neo)Forge 的客户端配置屏幕 API
-collective-1.20.4-7.30.jar
+collective-1.20.4-7.64.jar
 	【前置】Collective 是一个 Lib 类模组，具有 Serilum 所有模组的通用代码
 completeconfig-2.5.3.jar
 	【前置】CompleteConfig 是一个 Fabric 配置库模组
@@ -128,6 +130,8 @@ emitrades-fabric-1.3.0+mc1.20.4.jar
 	【UI】此模组为 EMI 添加了村民交易查看支持
 EnchantmentDescriptions-Fabric-1.20.4-20.0.3.jar
 	【UI】附魔描述是一个轻量级客户端模组，它在附魔的工具提示中增加了对附魔的描述
+enchanttweaker-1.4.9+mc1.20.3-1.20.4.jar
+	【功能】该模组不会添加任何内容，但它可以使模组开发者修改各种附魔的配置更简单
 enchlevel-langpatch-2.2.2.jar
 	【优化】该模组为超过等级 10 的附魔提供了文本显示支持
 enhanced_attack_indicator-1.0.4+1.20.3.jar
@@ -138,6 +142,8 @@ entityculling-fabric-1.6.4-mc1.20.4.jar
 	【优化】该模组使用异步路径跟踪跳过渲染不可见的实体和 方块实体
 exordium-fabric-1.2.1-mc1.20.4.jar
 	【优化】此模组将以较低的固定帧率渲染大部分 HUD，从而释放 CPU 和 GPU 用于真正重要的世界加载与渲染
+Extra Recipe-2.3-26.jar
+	【功能】更多配方为原版和其他模组添加了许多简单又实用的配方
 fabric-api-0.97.0+1.20.4.jar
 	【前置】Fabric API 提供一些基础的接口，允许其它模组注册物品、方块、模型、界面等，也提供一些事件
 fabric-carpet-1.20.3-1.4.128+v231205.jar
@@ -172,6 +178,8 @@ ftb-ultimine-fabric-2004.1.0.jar
 	【功能】FTB Ultimine 提供了同时收获多个方块的有效模式
 gamemenuremovegfarb-fabric-mc1.19.4-2.1.2.jar
 	【优化】 ESC 暂停的游戏菜单中移除“提供反馈”、“报告漏洞”选项
+grind-enchantments-3.1.2+1.20.4.jar
+	【功能】这个模组给砂轮增加了许多新功能，与普通的去除魔咒不同，这些功能需要消耗经验值
 gugle-carpet-addition-2.7.0-1.20.4.jar
 	【功能】Gugle的Carpet附加包
 harvest-1.3.1.jar
@@ -184,8 +192,12 @@ ImmediatelyFast-Fabric-1.2.15+1.20.4.jar
 	【优化】Immediately Fast 是一个开源的模组，提升了客户端渲染的速度
 indium-1.0.30+mc1.20.4.jar
 	【优化】铟 (Indium) 是渲染优化模组 钠 (Sodium) 的附属模组，为 Sodium 提供了对 Fabric Rendering API 的支持
+infinitetrading-1.20.4-4.4.jar
+	【功能】无限交易是一个方便原版生存的 Mod，可防止村民交易锁定并且无限交易
 InGameAccountSwitcher-Fabric-1.20.4-8.0.2.jar
 	【功能】此模组允许你在不重启游戏的情况下通过一个简单的界面更换游戏账号
+insecticide-lib-0.14.2+1.20.2-1.20.4.jar
+	【优化】一个用于取代 CICADA 的无害模组
 InventoryProfilesNext-fabric-1.20.3-1.10.10.jar
 	【功能】除一键整理外，模组还添加了大量其他功能
 iris-1.7.0+mc1.20.4.jar
