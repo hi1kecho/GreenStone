@@ -91,7 +91,7 @@
 - 整合
 
 ---
-### 支持作者请使用夸克：https://pan.quark.cn/s/3c546fcc35fe
+### 支持作者使用夸克网盘：https://pan.quark.cn/s/3c546fcc35fe
 
 ### 官方服务器玩家QQ群：688795238
 
